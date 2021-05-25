@@ -1,4 +1,4 @@
-# Back end : NestJs & GraphQl & Mongoose
+# Back end : NestJs & GraphQL & Mongoose
 
 ## Instalación
 
