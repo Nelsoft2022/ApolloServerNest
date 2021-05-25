@@ -1,0 +1,14 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Product {
+  _id: String!
+  brand: String!
+  description: String!
+  price: Float!
+}
+
+type Query {
+  products: [Product!]!
+}
